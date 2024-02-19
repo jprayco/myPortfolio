@@ -140,4 +140,5 @@ $(document).ready(function() {
     }
 
     window.addEventListener("scroll", reveal);
+
 })
